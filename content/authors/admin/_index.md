@@ -47,38 +47,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Math
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Rust
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 80
+        icon: rust
+        icon_pack: fab	
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Android
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 75
+        icon: android
+        icon_pack: fab
+      - name: Youtube
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: youtube
+        icon_pack: fab
+      - name: Gaming
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 85
+        icon: xbox
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
