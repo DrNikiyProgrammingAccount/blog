@@ -85,30 +85,30 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://www.elibrary.ru/defaultx.asp
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: hhttps://scholar.google.com/citations?user=cmlmUqoAAAAJ&hl=ru
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/DrNikiyProgrammingAccount
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://orcid.org/0009-0003-8124-9907
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Nikita-Andryushin
+  - icon: gg
+    icon_pack: fab
+    link: https://independent.academia.edu/DRNIKIY
+  - icon: dev
+    icon_pack: fab
+    link: https://arxiv.org/user/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
